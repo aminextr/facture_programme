@@ -13,7 +13,7 @@ produits = {
     "Manette xbox" : 6900
     }
 num_produit = 0
-num_client = 0
+num_client =  0 # hi
 client_choisi = ""
 num_facture = random.randint(1, 2000)
 nombre_produits_choisi = 0
