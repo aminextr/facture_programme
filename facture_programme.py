@@ -1,4 +1,5 @@
-﻿# coding: utf-8
+# coding: utf-8
+# for Linux: #!/chemin
 from __future__ import unicode_literals
 import os
 import random
