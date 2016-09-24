@@ -1,0 +1,1 @@
+This is a small python program that ask you to buy some items from the stock and then he calculate the total cost of your purchase and show it like an invoice with all the items you bought and the total amount you paid.
